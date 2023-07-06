@@ -1,0 +1,120 @@
+html{
+	font-family: 'poppins';
+}
+
+#header{
+	position: fixed;
+    width: 101%;
+    z-index: 100;  
+}
+
+.nav-logo img{
+	float: left;
+	height: 65px;
+    width: 55px;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+
+.nav-logo{
+	height: 65px;
+}
+
+header ul{
+	float: right;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	position: relative;
+	background: yellow;
+	z-index: 100;
+	font-size :12px;
+}
+
+header ul li{
+	float: left;
+	display: inline-block;
+}
+
+header ul li a{
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+}
+
+header ul li:hover{
+	background: lightgreen;
+}
+
+header ul ul{
+	position: absolute;
+	min-width: 200px;
+	display: none;
+	z-index: 100;
+}
+
+header ul ul li{
+	display: contents;
+}
+
+header ul li:hover ul{
+	display: block;
+}
+
+#menu-icon-bar i{
+	float: left;
+	font-size: 30px;
+	padding: 0.6em;
+	cursor: pointer;
+	display: none;
+}
+
+#res-cart-btn{
+	float: right;
+	font-size: 45px;
+	display: none;
+}
+
+/*mobile veiw*/
+@media (max-width : 768px) {
+
+	#menu-icon-bar i{
+		display: block;
+	}
+
+	#desk-cart-btn{
+		display: none;
+	}
+
+	#res-cart-btn{
+	display: block;
+	}
+
+	header ul{
+		display: none;
+		position: static;
+		width: 100%;
+		border-radius: 20px;
+	}
+
+	header ul li{
+		display: contents;
+	}
+
+	header ul ul{
+		position: static;
+	}
+
+	#header{
+		background: red;
+    	margin-left: -4%;
+    	border-bottom-left-radius: 20px;
+    	/*height: 100%;*/
+	}
+
+	header ul li a{
+		padding: 10px;
+	}
+	
+}
+

@@ -1,0 +1,19 @@
+[08-Jun-2020 09:06:00 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 09:06:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgF6UT7' to '../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 09:08:03 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Cucumber / khira IMG-20200608-WA0003.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 09:08:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYBnmeb' to '../../Product_images/Cucumber / khira IMG-20200608-WA0003.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 09:08:46 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Cucumber / khira IMG-20200608-WA0003.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 09:08:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmnfIEI' to '../../Product_images/Cucumber / khira IMG-20200608-WA0003.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 12:10:34 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 12:10:34 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpatBxfQ' to '../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 12:11:40 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 12:11:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8yJRgH' to '../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 18:59:05 UTC] PHP Warning:  move_uploaded_file(../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg): failed to open stream: No such file or directory in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[08-Jun-2020 18:59:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZj5UPH' to '../../Product_images/Brinjal / Baigan IMG-20200608-WA0000.jpg' in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 197
+[13-Jun-2020 13:01:37 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[13-Jun-2020 13:07:40 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[14-Jun-2020 16:48:25 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[03-Sep-2020 15:54:03 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[03-Sep-2020 16:57:07 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[04-Sep-2020 04:35:49 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98
+[04-Sep-2020 04:42:41 UTC] PHP Notice:  Undefined index: ifbs4u_vendor_id in /home/r6h0yiwao862/public_html/Vendor/actions/action.php on line 98

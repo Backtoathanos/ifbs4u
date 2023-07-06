@@ -1,0 +1,142 @@
+/*MAIN*/
+
+#search-row-index{
+  display: none;
+}
+
+a {
+
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+
+ #find-by-name{
+    display: none;
+  }
+
+
+#play-store-logo{
+      float:right;
+  }
+/*header{
+  border-bottom: 4px solid black
+}*/
+
+
+/*MEDIA QUERY*/
+@media (max-width : 768px) {
+
+  #close-search-field{
+    display: none;
+  }
+  
+  #search-nav{
+    display: none;
+  }
+  
+  #find-by-name{
+    display: block;
+  }
+
+  .all-page{
+    margin-right: 0;
+    margin-left: -8px; 
+  }
+
+  .items-block{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 0;
+    width: 70%;
+    padding: 0;
+  }
+  
+  .items-block-index{
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding: 0;
+  }
+  
+  
+
+  .cont-img{
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+
+  .navhead h1{
+    text-align: center;
+  }
+
+  .row {
+      margin-right: -15px;
+      margin-left: 0px;
+  }
+
+  /*home images */
+  .home-img{  
+      border-radius: 350px;
+    margin-left: 0;
+    position: relative;
+    left: 10%;
+    width: 100%;
+    height: 100px;
+  }
+
+  #find{
+      width: 90%;
+  }
+
+  #search-row-index{
+    display: block;
+  }
+  
+  #play-store-logo{
+      float:left;
+  }
+
+  .col-xs-3 {
+      width: 50%;
+  }
+
+  .Home-pro h3{
+    font-size: 21px;
+  }
+
+  .yeh a.button{
+    float: left;
+    height: 100%;
+  }
+
+  .items-block-index h4{
+    font-size: 90%;
+  }
+
+    .items-block img{
+    width: 80%;
+  }
+
+
+
+}
+
+
+/*.items-block-index img{*/
+/*    height:;*/
+    
+/*}*/
+.main-category-unit{
+  height: 100px;
+    padding: 5px;
+}
+
+#veg_index_data{
+  float: left;
+}
+
+
+
